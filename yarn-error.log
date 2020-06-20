@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add @keystonejs/fields
+  /usr/local/bin/node /usr/local/bin/yarn add @keystonejs/auth-password
 
 PATH: 
   /usr/local/opt/php/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Apple/bin:/Users/user 1/.rvm/bin
